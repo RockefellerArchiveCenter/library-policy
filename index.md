@@ -1,7 +1,7 @@
 ---
 layout: docs
 
-title: "Rockefeller Archive Center Collection Development and Management Policy for the RAC Library"
+title: "Collection Development and Management Policy for the RAC Library"
 
 ---
 
