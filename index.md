@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: "Library Collection Management Policy"
+title: "Rockefeller Archive Center Library Collection Management Policy"
 ---
 
 The Rockefeller Archive Center (RAC) collects non-unique published resources (which are not acquired as part of an archival collection) in a limited way consistent with the organization’s [Collection Policy](/collection-policy). Because of limited space, the RAC library is not a comprehensive resource for published literature by and about every subject, organization, or individual represented in the RAC’s archival holdings, nor does it serve as the repository of all works published by researchers who have conducted research at the RAC or that refer to RAC holdings.
