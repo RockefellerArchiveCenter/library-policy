@@ -31,7 +31,7 @@ Loose leaf and spiral bound publications will be cataloged and added to the libr
 ### Highly Scientific & Technical Publications 
 Such materials will only be cataloged and added to the RAC library collection if such books were sponsored, produced, or published by the RAC or by a donor/depositor organization. Otherwise, such materials should be housed, arranged, and described as part of the archival collections with which they were acquired.
 
-### Disposal 
+## Disposal 
 Library items identified for disposal under this policy should be clearly marked as "Discard", any cataloging information specific to the items should be removed from RAC discovery systems, and the items may be offered to staff for personal use. Once an item has been identified as a discard, it should not be incorporated back into the library collection at a later date. Any discard items not taken by staff for personal use should be properly disposed of in accordance with RAC Collections Management practices.
 
 _Approved: January 16, 2024_
